@@ -1,7 +1,5 @@
 import React, { useState } from "react";
-
 function Email() {
-
 const ContactForm = () => {
   // State to hold form data
   const [formData, setFormData] = useState({

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 function Email() {
-const ContactForm = () => {
+const Email = () => {
   // State to hold form data
   const [formData, setFormData] = useState({
     firstName: "",
